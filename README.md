@@ -1,3 +1,3 @@
 # BioroboticsLab
 
-Our projects are described in our [Wiki](https://github.com/BioroboticsLab/organization/wiki)
+You can find a project listing in our [Wiki](https://github.com/BioroboticsLab/organization/wiki)
